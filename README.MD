@@ -1,0 +1,1 @@
+SVR Temperature predicting model. (simple one) 
